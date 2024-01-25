@@ -50,14 +50,14 @@
                 <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="python"  height="40"/></a>
             </td>
             <td width="80px" align="center">
-                <span><strong>API</strong></span><br>
-                <a href="https://stoplight.io/api-documentation-guide" target="_blank" rel="noreferrer">
-                <img src="https://www.svgrepo.com/show/88703/api.svg" alt="python" height="40"/></a>
+                <span><strong>HTML</strong></span><br>
+                <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" height="40"/></a>
             </td>
             <td width="80px" align="center">
-                <span><strong>Flask</strong></span><br>
-                <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" height="40"/></a>
+                <span><strong>CSS</strong></span><br>
+                <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" height="40"/></a>
             </td>
         </tr>
         <tr valign="top">
@@ -67,14 +67,14 @@
                 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" height="40"/></a>
             </td>
             <td width="80px" align="center">
-                <span><strong>HTML</strong></span><br>
-                <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" height="40"/></a>
+                <span><strong>API</strong></span><br>
+                <a href="https://stoplight.io/api-documentation-guide" target="_blank" rel="noreferrer">
+                <img src="https://www.svgrepo.com/show/88703/api.svg" alt="python" height="40"/></a>
             </td>
             <td width="80px" align="center">
-                <span><strong>CSS</strong></span><br>
-                <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" height="40"/></a>
+                <span><strong>Flask</strong></span><br>
+                <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" height="40"/></a>
             </td>
             <td width="80px" align="center">
                 <span><strong>Javascript</strong></span><br>
